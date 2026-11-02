@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmad Alzaro — AI, healthcare and systems</title>
+  <desc id="desc">A dark teal graphic with a connected workflow and three areas of work.</desc>
+  <rect width="1200" height="360" rx="24" fill="#0b1720"/>
+  <circle cx="1020" cy="180" r="230" fill="#102a35"/>
+  <circle cx="1020" cy="180" r="155" fill="none" stroke="#285a63" stroke-width="2"/>
+  <circle cx="1020" cy="180" r="90" fill="none" stroke="#59b9ad" stroke-width="2"/>
+  <path d="M760 242 L855 190 L920 220 L1000 145 L1080 160" fill="none" stroke="#76ded0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#76ded0"><circle cx="760" cy="242" r="7"/><circle cx="855" cy="190" r="7"/><circle cx="920" cy="220" r="7"/><circle cx="1000" cy="145" r="7"/><circle cx="1080" cy="160" r="7"/></g>
+  <text x="72" y="90" fill="#76ded0" font-family="Arial,sans-serif" font-size="18" font-weight="bold" letter-spacing="4">AHMAD ALZARO / SYNTAX LABS</text>
+  <text x="72" y="166" fill="#f2f7f5" font-family="Arial,sans-serif" font-size="48" font-weight="bold">Build with the people</text>
+  <text x="72" y="226" fill="#f2f7f5" font-family="Arial,sans-serif" font-size="48" font-weight="bold">who use the system.</text>
+  <text x="74" y="292" fill="#afc6c5" font-family="Arial,sans-serif" font-size="21">HEALTHCARE   ·   FORWARD DEPLOYMENT   ·   AI RESEARCH</text>
+</svg>
