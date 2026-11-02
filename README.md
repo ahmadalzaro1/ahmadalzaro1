@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Ahmad Alzaro</h1>
+<p align="center"><b>Forward-deployed AI engineering · Healthcare workflows · Research</b><br>Amman, Jordan · <a href="https://thesyntaxlabs.com">Syntax Labs</a></p>
 
-<!--
-**ahmadalzaro1/ahmadalzaro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work alongside teams to understand their operations and build useful AI and digital systems. My work spans clinical workflows, staff enablement, operational data and language-model research.
 
-Here are some ideas to get you started:
+## Healthcare and forward deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through Syntax Labs, I work with healthcare practitioners and staff on patient coordination, operational workflows, AI adoption and training. My approach combines hands-on discovery, implementation, user support and attention to review and privacy.
+
+### Surgical video intelligence
+
+[![Surgical video intelligence demo on a public phantom](https://raw.githubusercontent.com/ahmadalzaro1/surgical-video-intelligence/main/demo-screenshot.png)](https://github.com/ahmadalzaro1/surgical-video-intelligence)
+
+[Explore the research →](https://github.com/ahmadalzaro1/surgical-video-intelligence)  
+Exploratory work on visualizing instrument tracking and video search using a public neurosurgical phantom dataset. This is research, not a clinical system.
+
+## Selected AI research
+
+### Arabic tokenization and representation
+
+[Explore the project →](https://github.com/ahmadalzaro1/tokenization-shapes-embeddings)  
+Research on how Arabic diacritics and tokenization choices affect learned representations. Findings should be read in the context of the experiment design and ongoing validation.
+
+### Language-model behavior and safety
+
+- [The Refusal Direction Generalizes](https://github.com/ahmadalzaro1/refusal-direction-generalizes) — a research study of refusal behavior in Gemma 2.
+- [Antagonistic Attention](https://github.com/ahmadalzaro1/antagonistic-attention-bloom) — a preliminary mechanistic study of attention across six languages.
+
+## Connect
+
+[Syntax Labs](https://thesyntaxlabs.com) · [LinkedIn](https://www.linkedin.com/in/ahmad-alzaro-jordan/)
