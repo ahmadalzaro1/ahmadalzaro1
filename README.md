@@ -36,6 +36,8 @@ I like getting close to the tools I use: finding where things break, understandi
 
 ### Pull requests
 
+The work below is linked to open pull requests or pull requests closed without a recorded merge.
+
 - **Helix Foundry** — Built a local diagnostic to check compatibility between the backend and ontology agent. [#174 · Open](https://github.com/HelixDB/helix-foundry/pull/174)
 - **Browser Harness** — Worked on opening the browser inspector in the Chromium browser a person is actually using on macOS. [#471 · Closed](https://github.com/browser-use/browser-harness/pull/471)
 - **img2threejs** — Worked on enforcing visual-review checks in its 3D generation workflow. [#8 · Closed](https://github.com/img2threejs/img2threejs/pull/8)
